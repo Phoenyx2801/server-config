@@ -24,3 +24,17 @@ sudo apt-get install \
 
  sudo apt auto-remove
 
+ clear
+
+ sudo dockerd
+
+ sleep 1
+ 
+ clear
+
+ echo "the machine needs to be restarted"
+
+ sleep 5
+
+ reboot
+
