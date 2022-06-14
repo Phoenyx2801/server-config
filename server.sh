@@ -26,15 +26,7 @@ sudo apt-get install \
 
  clear
 
- sudo dockerd
+ sudo usermode -aG ${USER}
 
- sleep 1
- 
- clear
 
- echo "the machine needs to be restarted"
-
- sleep 5
-
- reboot
 
