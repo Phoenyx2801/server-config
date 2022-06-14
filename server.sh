@@ -26,7 +26,7 @@ sudo apt-get install \
 
  clear
 
- sudo usermod -aG ${USER}
+ sudo usermod -aG docker ${USER}
 
 
 
