@@ -26,7 +26,7 @@ sudo apt-get install \
 
  clear
 
- sudo usermode -aG ${USER}
+ sudo usermod -aG ${USER}
 
 
 
